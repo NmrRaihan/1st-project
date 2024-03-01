@@ -3,8 +3,7 @@ body{
     font-optical-sizing: auto;
     font-weight: 10px;
     font-style: normal;
-    font-variation-settings:
-      "wdth" 100;
+    font-variation-settings:"wdth" 100;
   }
   .banner-container{
     background-image: url(/img/backgrount-1430x740.jpg);
